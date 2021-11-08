@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 logger = logging.getLogger(__name__)
 
-TOKEN = "1718013830:AAE2tybJ1DYCFuA4cDJZxd-6_SVUutafmFo"
+TOKEN = "INSERT_YOUR_TOKEN"
 
 #Core functions to get Public IP 
 def getPublicIP():
